@@ -10,8 +10,8 @@
 
 ### Задание 3
 
-![img/zad_3.png]
+![img/zad_1.png](img/zad_3.png)
 
 ### Задание 4
 
-![img/zad_4.png]
+![img/zad_1.png](img/zad_4.png)
