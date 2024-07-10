@@ -2,6 +2,8 @@
 
 ### Задание 1
 
+rsync -aH --exclude='.*' --checksum /home/vodin26/ /tmp/backup/
 
+![1720603950834](images/README/1720603950834.png)
 
 ### Задание 2
